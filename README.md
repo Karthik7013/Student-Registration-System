@@ -5,9 +5,7 @@
 
 
 
-
-Simple Task Management Web Application using React for the front-end and node-expresss for back-end  allowing user to create a task and update task and delete a task from the list of tasks.
-
+The aim of this Student Registration System project is to build a student registration system that will completely automate the process of new student registration in a university. The system will handle the document submission and registration of new students.
 
 
 ## Technologies
